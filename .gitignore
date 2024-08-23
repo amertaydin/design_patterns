@@ -1,3 +1,5 @@
 node_modules
 dummy
 .DS_Store
+dist
+package-lock.json
