@@ -1,0 +1,15 @@
+{
+  "name": "object-oriented-programming",
+  "version": "1.0.0",
+  "description": "Object Oriented Programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "author": "Abdullah Mert Aydin",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
